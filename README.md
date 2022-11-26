@@ -1,4 +1,4 @@
-## Todo App
+## Todo App 📔
 
 - React JS
 - FastAPI
